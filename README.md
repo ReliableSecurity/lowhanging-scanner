@@ -1,4 +1,4 @@
-# 🔥 AKUMA'S ULTIMATE PENETRATION TESTING SCANNER v3.0 🔥
+# 🔥 ULTIMATE PENETRATION TESTING SCANNER v3.0 🔥
 
 *"Один скрипт, чтобы Pwn3d их всех!"*
 
